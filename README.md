@@ -2,7 +2,10 @@
 mysql and sqlite3 module for NPL runtime
 
 ## How to Install
-Download and install here
+
+> On `linux` platform, mysql client is by default installed when you build [NPLRuntime](https://github.com/LiXizhi/NPLRuntime) from source code. You should find a `libluasql.so` in NPL runtime directory.
+
+For windows platform, download and install here
 [[https://github.com/LiXizhi/luasql/releases/tag/v1.0]]
 
 ### How to Use 
